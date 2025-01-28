@@ -1,0 +1,30 @@
+# Logs #
+######################
+*.log
+
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# IDEs and editors #
+####################
+.vscode/
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+venv.bak/
+venv.bak/
+
+# Directories #
+###############
+private/
