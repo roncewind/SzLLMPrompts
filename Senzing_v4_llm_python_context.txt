@@ -6513,7 +6513,7 @@ try:
 except SzError as err:
     print(f"\nERROR: {err}\n")
 # Deleting Data
-The deletion snippets outline deleting previously added source records. Deleting source records removes the previously added source record from the system, completes the entity resolution process and persists outcomes in the Senzing repository.
+The deletion snippets outline deleting previously added source records. Deleting source records removes the previously added source record from the system, completes the entity resolution process and persists outcomes in the Senzing repository. 
 
 Deleting a record only requires the data source code and record ID for the record to be deleted.
 
